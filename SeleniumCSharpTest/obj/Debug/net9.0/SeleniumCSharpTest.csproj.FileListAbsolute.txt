@@ -19,3 +19,4 @@ C:\Users\saadm\ass\SeleniumCSharpTest\obj\Debug\net9.0\refint\SeleniumCSharpTest
 C:\Users\saadm\ass\SeleniumCSharpTest\obj\Debug\net9.0\SeleniumCSharpTest.pdb
 C:\Users\saadm\ass\SeleniumCSharpTest\obj\Debug\net9.0\SeleniumCSharpTest.genruntimeconfig.cache
 C:\Users\saadm\ass\SeleniumCSharpTest\obj\Debug\net9.0\ref\SeleniumCSharpTest.dll
+C:\Users\saadm\ass\SeleniumCSharpTest\obj\Debug\net9.0\SeleniumCSharpTest.sourcelink.json
